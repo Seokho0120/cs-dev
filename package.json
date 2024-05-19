@@ -1,0 +1,12 @@
+{
+  "name": "cs-dev",
+  "version": "1.0.0",
+  "description": "#### 디자인패턴, 네트워크, 운영체제, 데이터베이스, 자료구조 등 CS 지식을 학습하고 정리합니다.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
